@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">History APP</string>
+    <string name="editText">Age</string>
+    <string name="Age">editText</string>
+    <string name="Button" translatable="false">Enter</string>
+    <string name="Button2">Clear</string>
+    <string name="Plaintext">PlainText\n</string>
+    <string name="PlainText">History App</string>
+</resources>
